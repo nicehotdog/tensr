@@ -1,0 +1,308 @@
+message	response
+G5.04.01.01 Nadanie przesyłek przez Klienta 3.00	G5.04.01.01 Nadanie przesyłek przez Klienta 3.00
+G5.04.01.01.01 Nadanie paczki przez Klienta na magazynie  2.00	G5.04.01.01.01 Nadanie paczki przez Klienta na magazynie  2.00
+G5.04.01.01.02 Nadanie paczki w Paczkomacie 2.00	G5.04.01.01.02 Nadanie paczki w Paczkomacie 2.00
+G5.04.01.01.03 Nadanie przesyłek paletowych 2.00	G5.04.01.01.03 Nadanie przesyłek paletowych 2.00
+G5.04.01.02 Instrukcja obsługi modułu Dyspozytor 3.00	G5.04.01.02 Instrukcja obsługi modułu Dyspozytor 3.00
+G5.04.01.02.01 Weryfikacja statusów zleceń 2.00	G5.04.01.02.01 Weryfikacja statusów zleceń 2.00
+G5.04.01.02.01.01 Wydanie zlecenia na Kuriera/Zmiana kuriera 2.00	G5.04.01.02.01.01 Wydanie zlecenia na Kuriera/Zmiana kuriera 2.00
+G5.04.01.02.01.02 Automat do wydawania zleceń na kuriera 2.00	G5.04.01.02.01.02 Automat do wydawania zleceń na kuriera 2.00
+G5.04.01.02.01.03 Zmiana terminu realizacji zlecenia odbioru 2.00	G5.04.01.02.01.03 Zmiana terminu realizacji zlecenia odbioru 2.00
+G5.04.01.02.02 Ręczne dodawanie zlecenia 2.00	G5.04.01.02.02 Ręczne dodawanie zlecenia 2.00
+G5.04.01.02.03 Zarządzanie podjazdami stałymi - Zlecenia stałe 2.00	G5.04.01.02.03 Zarządzanie podjazdami stałymi - Zlecenia stałe 2.00
+G5.04.01.02.03.01 Zlecenia stałe - przypisanie Kuriera 2.00	G5.04.01.02.03.01 Zlecenia stałe - przypisanie Kuriera 2.00
+G5.04.01.02.03.02 Zlecenia stałe - szablon niedziela 2.00	G5.04.01.02.03.02 Zlecenia stałe - szablon niedziela 2.00
+G5.04.01.02.04 Przypisanie Kuriera do rejonu DCR 2.00	G5.04.01.02.04 Przypisanie Kuriera do rejonu DCR 2.00
+G5.04.01.03 Obsługa zleceń  5.00	G5.04.01.03 Obsługa zleceń  5.00
+G5.04.01.03.01 Automatyczne generowanie zlecenia odbioru 3.00	G5.04.01.03.01 Automatyczne generowanie zlecenia odbioru 3.00
+G5.04.01.03.01.01 Automatyczne zlecenie odbioru nadań od klienta 3.00	G5.04.01.03.01.01 Automatyczne zlecenie odbioru nadań od klienta 3.00
+G5.04.01.03.01.02 Automatyczne zlecenia odbioru nadań z maszyny Paczkomat i PUDO 2.00	G5.04.01.03.01.02 Automatyczne zlecenia odbioru nadań z maszyny Paczkomat i PUDO 2.00
+G5.04.01.03.01.03 Automatyczne utworzenie zlecenia stałego 2.00	G5.04.01.03.01.03 Automatyczne utworzenie zlecenia stałego 2.00
+G5.04.01.03.01.04 Automatyczne zlecenia odbioru paczek nieodebranych w maszynie Paczkomat/PUDO 2.00	G5.04.01.03.01.04 Automatyczne zlecenia odbioru paczek nieodebranych w maszynie Paczkomat/PUDO 2.00
+G5.04.01.03.01.05 Automatyczne zlecenia odbioru paczek po magazynowaniu 2.00	G5.04.01.03.01.05 Automatyczne zlecenia odbioru paczek po magazynowaniu 2.00
+G5.04.01.03.02 Odrzucenie zlecenia przez Kuriera 2.00	G5.04.01.03.02 Odrzucenie zlecenia przez Kuriera 2.00
+G5.04.01.03.03 Nadanie statusu brak możliwości realizacji zlecenia 2.00	G5.04.01.03.03 Nadanie statusu brak możliwości realizacji zlecenia 2.00
+G5.04.01.03.04 Przyjęcie zlecenia przez kuriera 2.00	G5.04.01.03.04 Przyjęcie zlecenia przez kuriera 2.00
+G5.04.01.03.05 Zrealizowanie zlecenia 2.00	G5.04.01.03.05 Zrealizowanie zlecenia 2.00
+G5.04.01.03.05.01 Podjęcie paczki u klienta 2.00	G5.04.01.03.05.01 Podjęcie paczki u klienta 2.00
+G5.04.01.03.05.02 Podjęcie paczki z PUDO 3.00	G5.04.01.03.05.02 Podjęcie paczki z PUDO 3.00
+G5.04.01.03.05.03 Odbiór paczek z maszyn Paczkomat® 3.00	G5.04.01.03.05.03 Odbiór paczek z maszyn Paczkomat® 3.00
+G5.04.01.03.05.05 ZZBS Odbiór paczek bez skanowania 3.00	G5.04.01.03.05.05 ZZBS Odbiór paczek bez skanowania 3.00
+G5.04.01.03.06 Utworzenie zlecenia przez Kuriera 2.00	G5.04.01.03.06 Utworzenie zlecenia przez Kuriera 2.00
+G5.04.01.03.07 Wprowadzanie/modyfikacja lub usunięcie zlecenia stałego 2.00	G5.04.01.03.07 Wprowadzanie/modyfikacja lub usunięcie zlecenia stałego 2.00
+G5.04.01.03.08 Aktualizacja zleceń stałych przez Dyspozytora 3.00	G5.04.01.03.08 Aktualizacja zleceń stałych przez Dyspozytora 3.00
+G5.04.01.04 Interwencje do zleceń odbioru 1.00	G5.04.01.04 Interwencje do zleceń odbioru 1.00
+G5.04.02.01 Instrukcja wydawania przesyłek Kurierom 6.00	G5.04.02.01 Instrukcja wydawania przesyłek Kurierom 6.00
+G5.04.02.01.01 Dynamiczne przekierowanie przesyłki kurierskiej przez Odbiorcę (DPP) 4.00	G5.04.02.01.01 Dynamiczne przekierowanie przesyłki kurierskiej przez Odbiorcę (DPP) 4.00
+G5.04.02.01.02 Postępowanie Kuriera z paczką po przekierowaniu przez Klienta (DPP) 4.00	G5.04.02.01.02 Postępowanie Kuriera z paczką po przekierowaniu przez Klienta (DPP) 4.00
+G5.04.02.02 Procedura doręczania przesyłki Kurierskiej 10.00	G5.04.02.02 Procedura doręczania przesyłki Kurierskiej 10.00
+G5.04.02.02.01 Doręczenie paczki pod adres odbiorcy 5.00	G5.04.02.02.01 Doręczenie paczki pod adres odbiorcy 5.00
+G5.04.02.02.02 Oznaczenie paczki do awizacji 2.00	G5.04.02.02.02 Oznaczenie paczki do awizacji 2.00
+G5.04.02.03 Instrukcja doręczania przesyłek adresowanych do automatów Paczkomat® 7.00	G5.04.02.03 Instrukcja doręczania przesyłek adresowanych do automatów Paczkomat® 7.00
+G5.04.02.03.01 Umieszczenie paczki w maszynie Soft 2.0/Next za pomocą Panelu maszyny Paczkomat 5.00	G5.04.02.03.01 Umieszczenie paczki w maszynie Soft 2.0/Next za pomocą Panelu maszyny Paczkomat 5.00
+G5.04.02.03.02 Umieszczenie paczki w maszynie Paczkomat za pomocą ICRA 4.00	G5.04.02.03.02 Umieszczenie paczki w maszynie Paczkomat za pomocą ICRA 4.00
+G5.04.02.03.03 Weryfikacja uszkodzonych skrytek automatu Paczkomat 3.00	G5.04.02.03.03 Weryfikacja uszkodzonych skrytek automatu Paczkomat 3.00
+G5.04.02.04 Instrukcja doręczania przesyłek przez Kuriera do PUDO 4.00	G5.04.02.04 Instrukcja doręczania przesyłek przez Kuriera do PUDO 4.00
+G5.04.02.05 Wydawanie przesyłek z MPOK 5.00	G5.04.02.05 Wydawanie przesyłek z MPOK 5.00
+G5.04.02.05.01 Utworzenie MPOK w ILS 3.00	G5.04.02.05.01 Utworzenie MPOK w ILS 3.00
+G5.04.02.05.02 Utworzenie MPOK na Aplikacji Kurierskiej 3.00	G5.04.02.05.02 Utworzenie MPOK na Aplikacji Kurierskiej 3.00
+G5.04.02.06 Instrukcja magazynowania oraz alternatywnych form doręczenia w przypadku braku możliwości umieszczenia paczek w pierwotnej maszynie lub Pudo 5.00	G5.04.02.06 Instrukcja magazynowania oraz alternatywnych form doręczenia w przypadku braku możliwości umieszczenia paczek w pierwotnej maszynie lub Pudo 5.00
+G5.04.02.06.01 Przygotowanie do magazynowania w PUDO z poziomu ILS 4.00	G5.04.02.06.01 Przygotowanie do magazynowania w PUDO z poziomu ILS 4.00
+G5.04.02.06.02 Przygotowanie do magazynowania w maszynie Paczkomat z poziomu ILS 4.00	G5.04.02.06.02 Przygotowanie do magazynowania w maszynie Paczkomat z poziomu ILS 4.00
+G5.04.02.06.03 Przygotowanie do magazynowania na Aplikacji Kurierskiej 3.00	G5.04.02.06.03 Przygotowanie do magazynowania na Aplikacji Kurierskiej 3.00
+G5.04.02.06.04 Proces umieszczania przesyłek w maszynie Paczkomat 3.00	G5.04.02.06.04 Proces umieszczania przesyłek w maszynie Paczkomat 3.00
+G5.04.02.07.01 Inwentaryzacja stanu kuriera (ISK) 3.00	G5.04.02.07.01 Inwentaryzacja stanu kuriera (ISK) 3.00
+G5.04.02.09 Anulowanie statusu doręczenia paczki w ILS 3.00	G5.04.02.09 Anulowanie statusu doręczenia paczki w ILS 3.00
+G5.04.02.10 Umieszczenie paczek w maszynie Paczkomat w Multiskrytce 6.00	G5.04.02.10 Umieszczenie paczek w maszynie Paczkomat w Multiskrytce 6.00
+G5.04.02.10.01 Multiskrytka_definiowanie potencjału 3.00	G5.04.02.10.01 Multiskrytka_definiowanie potencjału 3.00
+G5.04.02.11 Instrukcja logowania do automatów Paczkomat®  5.00	G5.04.02.11 Instrukcja logowania do automatów Paczkomat®  5.00
+G5.04.02.12 Instrukcja awizacji przesyłek D2D w PUDO 3.00	G5.04.02.12 Instrukcja awizacji przesyłek D2D w PUDO 3.00
+G5.04.03.01 DCR - cykliczna aktualizacja danych Geocodera i podkładu mapy 2.00	G5.04.03.01 DCR - cykliczna aktualizacja danych Geocodera i podkładu mapy 2.00
+G5.04.03.02 Procesowanie Przesyłek Wewnętrznych zawierających dane osobowe 2.00	G5.04.03.02 Procesowanie Przesyłek Wewnętrznych zawierających dane osobowe 2.00
+G5.04.03.03 Zgłoszenie i odczyt logów automatów Paczkomat® 4.00	G5.04.03.03 Zgłoszenie i odczyt logów automatów Paczkomat® 4.00
+G5.04.03.04 Instrukcja postępowania w przypadku zniszczenia mienia pod urządzeniem Paczkomat® 1.00	G5.04.03.04 Instrukcja postępowania w przypadku zniszczenia mienia pod urządzeniem Paczkomat® 1.00
+G5.05.01.01 Zarządzanie końcówkami 4.00	G5.05.01.01 Zarządzanie końcówkami 4.00
+G5.05.01.02 Przygotowanie magazynu 4.00	G5.05.01.02 Przygotowanie magazynu 4.00
+G5.05.01.03 Załadunek LH w Oddziałach 8.00	G5.05.01.03 Załadunek LH w Oddziałach 8.00
+G5.05.01.04 Relabeling etykiet oraz przesyłek przeterminowanych (Nadania) 6.00	G5.05.01.04 Relabeling etykiet oraz przesyłek przeterminowanych (Nadania) 6.00
+G5.05.01.05 Proces Same Day Delivery (SDD) 2.00	G5.05.01.05 Proces Same Day Delivery (SDD) 2.00
+G5.05.01.06 Zwrot pustych nośników 2.00	G5.05.01.06 Zwrot pustych nośników 2.00
+G5.05.01.07 Nadania Mini Direct Injection 1.00	G5.05.01.07 Nadania Mini Direct Injection 1.00
+G5.05.01.08 Cross Network- procesowanie w oddziale nadającym 2.00	G5.05.01.08 Cross Network- procesowanie w oddziale nadającym 2.00
+G5.05.02.01 Rozładunek LH w Oddziałach 5.00	G5.05.02.01 Rozładunek LH w Oddziałach 5.00
+G5.05.02.02 Organizacja pracy w strefie rozsortu specjalnego (D2D/APM) 2.00	G5.05.02.02 Organizacja pracy w strefie rozsortu specjalnego (D2D/APM) 2.00
+G5.05.02.03 Automatyczna konteneryzacja 4.00	G5.05.02.03 Automatyczna konteneryzacja 4.00
+G5.05.02.04 Międzyzmiana 6.00	G5.05.02.04 Międzyzmiana 6.00
+G5.05.02.05 Skan paczek pod wiatami 3.00	G5.05.02.05 Skan paczek pod wiatami 3.00
+G5.05.02.06 Strefa BSL (błędne sorty lokalne) 4.00	G5.05.02.06 Strefa BSL (błędne sorty lokalne) 4.00
+G5.05.02.09 Instrukcja obsługi przesyłek kurierskich z zastrzeżoną godziną doręczenia oraz WKN 4.00	G5.05.02.09 Instrukcja obsługi przesyłek kurierskich z zastrzeżoną godziną doręczenia oraz WKN 4.00
+G5.05.02.10 Odbiór przez klienta paczek z magazynu oddziałowego 2.00	G5.05.02.10 Odbiór przez klienta paczek z magazynu oddziałowego 2.00
+G5.05.02.11 Kontrola jakości ładunku na Oddziałach 2.00	G5.05.02.11 Kontrola jakości ładunku na Oddziałach 2.00
+G5.05.03.01 Rozładunek Kuriera 5.00	G5.05.03.01 Rozładunek Kuriera 5.00
+G5.05.03.02 Zarządzanie buforem 5.00	G5.05.03.02 Zarządzanie buforem 5.00
+G5.05.03.04 Organizacja pracy magazyniera (wykładającego) przy infeed sorterów 4.00	G5.05.03.04 Organizacja pracy magazyniera (wykładającego) przy infeed sorterów 4.00
+G5.05.03.05 Planowanie operacyjne 2.00	G5.05.03.05 Planowanie operacyjne 2.00
+G5.05.03.06 Organizacja pracy na podeście  3.00	G5.05.03.06 Organizacja pracy na podeście  3.00
+G5.05.03.07 Organizacja pracy w strefie gabarytów 3.00	G5.05.03.07 Organizacja pracy w strefie gabarytów 3.00
+G5.05.03.08 Organizacja pracy magazyniera (sortownika)  4.00	G5.05.03.08 Organizacja pracy magazyniera (sortownika)  4.00
+G5.05.03.09 Organizacja pracy na zsypie technicznym OVF 4.00	G5.05.03.09 Organizacja pracy na zsypie technicznym OVF 4.00
+G5.05.03.10 Organizacja pracy magazyniera (paleciakowego) 4.00	G5.05.03.10 Organizacja pracy magazyniera (paleciakowego) 4.00
+G5.05.03.11 Postępowanie z przesyłkami opóźnionymi (FIFO) 4.00	G5.05.03.11 Postępowanie z przesyłkami opóźnionymi (FIFO) 4.00
+G5.05.03.13 Postępowanie z przesyłkami uszkodzonymi   6.00	G5.05.03.13 Postępowanie z przesyłkami uszkodzonymi   6.00
+G5.05.03.16 Procedura przeprowadzania Security Scan 4.00	G5.05.03.16 Procedura przeprowadzania Security Scan 4.00
+G5.05.03.17 Weryfikacja wagi przesyłek   3.00	G5.05.03.17 Weryfikacja wagi przesyłek   3.00
+G5.05.03.18 Procesowanie paczek ponadgabarytowych 3.00	G5.05.03.18 Procesowanie paczek ponadgabarytowych 3.00
+G5.05.03.19 Separacja zwrotów  3.00	G5.05.03.19 Separacja zwrotów  3.00
+G5.05.03.20 Postępowanie z przesyłkami Allegro X-Border 3.00	G5.05.03.20 Postępowanie z przesyłkami Allegro X-Border 3.00
+G5.05.03.21 Sort do Pianina- Operacje poranne 1.00	G5.05.03.21 Sort do Pianina- Operacje poranne 1.00
+G5.05.03.22 Procesowanie przesyłek wysyłanych za granicę (E-Mag oraz Vinted)  3.00	G5.05.03.22 Procesowanie przesyłek wysyłanych za granicę (E-Mag oraz Vinted)  3.00
+G5.05.03.23 Inwentaryzacja nośników 1.00	G5.05.03.23 Inwentaryzacja nośników 1.00
+G5.05.03.24 Procesowanie Dynamicznie przekierowanych przesyłek  1.00	G5.05.03.24 Procesowanie Dynamicznie przekierowanych przesyłek  1.00
+G5.05.03.25 Postępowanie z przesyłkami nieregulaminowymi (w tym zwierzęta i inna zawartość) 1.00	G5.05.03.25 Postępowanie z przesyłkami nieregulaminowymi (w tym zwierzęta i inna zawartość) 1.00
+G5.06.01.01 Postępowania z przesyłkami niedoręczonymi  6.00	G5.06.01.01 Postępowania z przesyłkami niedoręczonymi  6.00
+G5.06.01.02 Organizacja pomieszczenia awizowni 3.00	G5.06.01.02 Organizacja pomieszczenia awizowni 3.00
+G5.06.01.03 Postępowania z przesyłkami awizowanymi 3.00	G5.06.01.03 Postępowania z przesyłkami awizowanymi 3.00
+G5.06.01.04 Postępowanie z przesyłkami niedoręczalnymi 2.00	G5.06.01.04 Postępowanie z przesyłkami niedoręczalnymi 2.00
+G5.06.01.05 Procesowanie przesyłek wielopaków_ 4.00	G5.06.01.05 Procesowanie przesyłek wielopaków_ 4.00
+G5.06.01.06 Awaryjne procesowanie przesyłek wielopakowych - kontakt nadawcy 2.00	G5.06.01.06 Awaryjne procesowanie przesyłek wielopakowych - kontakt nadawcy 2.00
+G5.06.01.07 Inwentaryzacja stanu magazynowego - Administracja oddziałowa 2.00	G5.06.01.07 Inwentaryzacja stanu magazynowego - Administracja oddziałowa 2.00
+G5.06.01.08 Postępowanie w przypadku nieaktualnej destynacji przesyłki 2.00	G5.06.01.08 Postępowanie w przypadku nieaktualnej destynacji przesyłki 2.00
+G5.06.01.09 Zwrot przesyłki do nadawcy 3.00	G5.06.01.09 Zwrot przesyłki do nadawcy 3.00
+G5.06.01.10 Blokada ZDN 1.00	G5.06.01.10 Blokada ZDN 1.00
+G5.06.02.01 Obsługa przesyłki kurierskiej z usługą dokumenty zwrotne 2.00	G5.06.02.01 Obsługa przesyłki kurierskiej z usługą dokumenty zwrotne 2.00
+G5.06.02.02 Postępowanie w przypadku błędnego nieterminowego statusowania przesyłki lub jej zagubienia - Kompletność 3.00	G5.06.02.02 Postępowanie w przypadku błędnego nieterminowego statusowania przesyłki lub jej zagubienia - Kompletność 3.00
+G5.06.02.03 Czynności wyjaśniające - Kompletność 2.00	G5.06.02.03 Czynności wyjaśniające - Kompletność 2.00
+G5.06.02.04 Rozliczenie Kuriera 2.00	G5.06.02.04 Rozliczenie Kuriera 2.00
+G5.06.03.01 Obsługa przesyłek pobraniowych 3.00	G5.06.03.01 Obsługa przesyłek pobraniowych 3.00
+G5.06.03.02 Procedura obrotu kasowego i konwojowania 2.00	G5.06.03.02 Procedura obrotu kasowego i konwojowania 2.00
+G5.06.03.03 Zdeponowanie gotówki powyżej 50 000- 2.00	G5.06.03.03 Zdeponowanie gotówki powyżej 50 000- 2.00
+G5.06.03.04 KW przygotowanie na konwój 2.00	G5.06.03.04 KW przygotowanie na konwój 2.00
+G5.06.03.05 Przekazanie na konwój 3.00	G5.06.03.05 Przekazanie na konwój 3.00
+G5.06.03.06 Instrukcja Raportowania Kasowego 2.00	G5.06.03.06 Instrukcja Raportowania Kasowego 2.00
+G5.06.03.07 Zaległości 2.00	G5.06.03.07 Zaległości 2.00
+G5.06.04.01 Interwencje_ Paczkomat - KLIENT-weryfikacja/przeszukanie_ 3.00	G5.06.04.01 Interwencje_ Paczkomat - KLIENT-weryfikacja/przeszukanie_ 3.00
+G5.06.04.02 Interwencje_Paczkomat - KURIER- weryfikacja/przeszukanie_ 2.00	G5.06.04.02 Interwencje_Paczkomat - KURIER- weryfikacja/przeszukanie_ 2.00
+G5.06.04.03 Interwencje_All paczka znaleziona 2.00	G5.06.04.03 Interwencje_All paczka znaleziona 2.00
+G5.06.04.04 Interwencje_D2D Błędny Status - Doręczona 2.00	G5.06.04.04 Interwencje_D2D Błędny Status - Doręczona 2.00
+G5.06.04.05 Interwencje_Kurierska - przeadresowanie 2.00	G5.06.04.05 Interwencje_Kurierska - przeadresowanie 2.00
+G5.06.05.01 GoCouriers Zarządzanie Kamizelkami Kurierskimi 2.00	G5.06.05.01 GoCouriers Zarządzanie Kamizelkami Kurierskimi 2.00
+G5.07.01.01 Sort automatyczny 2.00	G5.07.01.01 Sort automatyczny 2.00
+G5.07.01.02 Sort ręczny przesyłek gabarytowych 2.00	G5.07.01.02 Sort ręczny przesyłek gabarytowych 2.00
+G5.07.01.03 Sort półautomatyczny 2.00	G5.07.01.03 Sort półautomatyczny 2.00
+G5.07.01.04 Relabeling sortownia 2.00	G5.07.01.04 Relabeling sortownia 2.00
+G5.07.01.05 Tworzenie kontenerów zbiorczych - sortownia/podsortownia 3.00	G5.07.01.05 Tworzenie kontenerów zbiorczych - sortownia/podsortownia 3.00
+G5.07.01.06 Konteneryzacja paczek z odcięciem - sortownia 2.00	G5.07.01.06 Konteneryzacja paczek z odcięciem - sortownia 2.00
+G5.07.01.07 Ręczna weryfikacja wymiarów paczki - sortownia 2.00	G5.07.01.07 Ręczna weryfikacja wymiarów paczki - sortownia 2.00
+G5.07.01.08 Kontrola jakości rozładunku/załadunku 3.00	G5.07.01.08 Kontrola jakości rozładunku/załadunku 3.00
+G5.07.01.09 Kontrola jakości sortowania 2.00	G5.07.01.09 Kontrola jakości sortowania 2.00
+G5.07.01.10 Procesowanie przesyłek uszkodzonych w Sortowniach Centralnych 3.00	G5.07.01.10 Procesowanie przesyłek uszkodzonych w Sortowniach Centralnych 3.00
+G5.07.01.11 Wyznaczanie obszarów do procesowania przesyłek uszkodzonych w magazynach Sortowni. 2.00	G5.07.01.11 Wyznaczanie obszarów do procesowania przesyłek uszkodzonych w magazynach Sortowni. 2.00
+G5.07.01.12 Magazyn Przesyłek Niedoręczalnych 3.00	G5.07.01.12 Magazyn Przesyłek Niedoręczalnych 3.00
+G5.07.01.13 Postępowanie z OOP 3.00	G5.07.01.13 Postępowanie z OOP 3.00
+G5.07.01.14 MPN_Utylizacja przesyłek 2.00	G5.07.01.14 MPN_Utylizacja przesyłek 2.00
+G5.07.01.15 Zamawianie materiałów na magazyn 2.00	G5.07.01.15 Zamawianie materiałów na magazyn 2.00
+G5.07.01.16 Przyjęcie dostawy i magazynowanie materiałów na magazynie 2.00	G5.07.01.16 Przyjęcie dostawy i magazynowanie materiałów na magazynie 2.00
+G5.07.01.17 Zamawianie towarów z magazynu 2.00	G5.07.01.17 Zamawianie towarów z magazynu 2.00
+G5.07.01.18 Realizacja zamówień 2.00	G5.07.01.18 Realizacja zamówień 2.00
+G5.07.01.18.01 Realizacja zamówienia na drukarkę 2.00	G5.07.01.18.01 Realizacja zamówienia na drukarkę 2.00
+G5.07.01.19 Proces reklamacyjny dot. zamówień materiałów 2.00	G5.07.01.19 Proces reklamacyjny dot. zamówień materiałów 2.00
+G5.07.01.20 Rozładunek LH w Sortowniach Centralnych 3.00	G5.07.01.20 Rozładunek LH w Sortowniach Centralnych 3.00
+G5.07.01.21 Załadunek LH w Sortowniach Centralnych 3.00	G5.07.01.21 Załadunek LH w Sortowniach Centralnych 3.00
+G5.07.01.22 Uzupełnienie stanów magazynu FERPOL 2.00	G5.07.01.22 Uzupełnienie stanów magazynu FERPOL 2.00
+G5.07.01.24 Procesowanie przesyłek Cross Network w Sortowni Centralnej 1.00	G5.07.01.24 Procesowanie przesyłek Cross Network w Sortowni Centralnej 1.00
+G5.07.02.01 Rozpoczęcie operacji w PDS 2.00	G5.07.02.01 Rozpoczęcie operacji w PDS 2.00
+G5.07.02.02 Zakończenie operacji w PDS 2.00	G5.07.02.02 Zakończenie operacji w PDS 2.00
+G5.07.02.03 Konsolidacja nośników i paczek w PDS 2.00	G5.07.02.03 Konsolidacja nośników i paczek w PDS 2.00
+G5.07.02.05 Procesowanie przesyłek BSO w PDS 2.00	G5.07.02.05 Procesowanie przesyłek BSO w PDS 2.00
+G5.07.02.06 Procesowanie przesyłek uszkodzonych w PDS 3.00	G5.07.02.06 Procesowanie przesyłek uszkodzonych w PDS 3.00
+G5.08.01.01 Wypadek - kolizja z udziałem kierowcy LH 2.00	G5.08.01.01 Wypadek - kolizja z udziałem kierowcy LH 2.00
+G5.08.01.02 Dodatkowy transport LH - zamawianie i obsługa dodatków  4.00	G5.08.01.02 Dodatkowy transport LH - zamawianie i obsługa dodatków  4.00
+G5.08.01.03 Procedura obiegu oraz obsługi mobilnych urządzeń GPS 2.00	G5.08.01.03 Procedura obiegu oraz obsługi mobilnych urządzeń GPS 2.00
+G5.08.01.04 Ofertowanie transportu LH 2.00	G5.08.01.04 Ofertowanie transportu LH 2.00
+G5.08.01.05 Postępowanie w przypadku pożaru przestrzeni ładunkowej LH 2.00	G5.08.01.05 Postępowanie w przypadku pożaru przestrzeni ładunkowej LH 2.00
+G5.09.01.03 Przygotowanie i podpisanie umowy odpłatnego udostępnienia auta elektrycznego podpis Autenti 3.00	G5.09.01.03 Przygotowanie i podpisanie umowy odpłatnego udostępnienia auta elektrycznego podpis Autenti 3.00
+G5.09.01.04 Uzupełnienie elektronicznej koperty w Autenti 2.00	G5.09.01.04 Uzupełnienie elektronicznej koperty w Autenti 2.00
+G5.09.02 Otwarcie Kartoteki Oddziału 3.00	G5.09.02 Otwarcie Kartoteki Oddziału 3.00
+G5.09.02.01 Zmiany w kartotece oddziału - Przepięcia kodów pocztowych maszyn Paczkomat i PUDO między Oddziałami 4.00	G5.09.02.01 Zmiany w kartotece oddziału - Przepięcia kodów pocztowych maszyn Paczkomat i PUDO między Oddziałami 4.00
+G5.09.02.04 Zmiany w kartotece oddziału - Zmiana lokalizacji Oddziału 2.00	G5.09.02.04 Zmiany w kartotece oddziału - Zmiana lokalizacji Oddziału 2.00
+G5.09.02.05 Zmiany w strefach (NOG) 3.00	G5.09.02.05 Zmiany w strefach (NOG) 3.00
+G5.09.02.06 Zgłaszanie zmian w strukturze Oddziału 1.00	G5.09.02.06 Zgłaszanie zmian w strukturze Oddziału 1.00
+G5.09.03.01 Prepaid 2.00	G5.09.03.01 Prepaid 2.00
+G5.09.03.02 Blokada  2.00	G5.09.03.02 Blokada  2.00
+G5.09.03.03 Aktywacja  2.00	G5.09.03.03 Aktywacja  2.00
+G5.09.03.04 Obciążenia 2.00	G5.09.03.04 Obciążenia 2.00
+G5.09.03.05 Doładowanie 2.00	G5.09.03.05 Doładowanie 2.00
+G5.09.03.06 Karty Oddziałowe. 2.00	G5.09.03.06 Karty Oddziałowe. 2.00
+G5.09.03.07 Zamówienie kart  2.00	G5.09.03.07 Zamówienie kart  2.00
+G5.09.03.08 Awaria 2.00	G5.09.03.08 Awaria 2.00
+G5.09.04.01 (INS_PP 3-1-5 K) Otwarcie i funkcjonowanie Platformy 2.00	G5.09.04.01 (INS_PP 3-1-5 K) Otwarcie i funkcjonowanie Platformy 2.00
+G5.09.05.01.01 Zgłoszenia dotyczące Rozliczenia Kurier 2.00	G5.09.05.01.01 Zgłoszenia dotyczące Rozliczenia Kurier 2.00
+G5.09.05.01.02 Rozliczenia Kurier - Blokada Faktur 2.00	G5.09.05.01.02 Rozliczenia Kurier - Blokada Faktur 2.00
+G5.09.05.01.03 Rozliczenia Kurier - Odblokowanie Faktur 2.00	G5.09.05.01.03 Rozliczenia Kurier - Odblokowanie Faktur 2.00
+G5.09.05.01.04 Rozliczenia Kurier - Wypowiedzenie do umowy świadczeń usług kurierskich 2.00	G5.09.05.01.04 Rozliczenia Kurier - Wypowiedzenie do umowy świadczeń usług kurierskich 2.00
+G5.09.05.01.05 Rozliczenia Kurier - Zmiana rachunku bankowego 2.00	G5.09.05.01.05 Rozliczenia Kurier - Zmiana rachunku bankowego 2.00
+G5.09.05.01.06 Rozliczenia Kurier - OCP 2.00	G5.09.05.01.06 Rozliczenia Kurier - OCP 2.00
+G5.09.05.01.07 Rozliczenia Kurier - Zapytania o płatność - Termin Przelewu 2.00	G5.09.05.01.07 Rozliczenia Kurier - Zapytania o płatność - Termin Przelewu 2.00
+G5.09.05.01.08 Rozliczenia Kurier - Zapytania o płatność - Wyjaśnienie kwoty przelewu 2.00	G5.09.05.01.08 Rozliczenia Kurier - Zapytania o płatność - Wyjaśnienie kwoty przelewu 2.00
+G5.09.05.01.09 Rozliczenia Kurier - Zapytania o płatność - Termin Kompensat 3.00	G5.09.05.01.09 Rozliczenia Kurier - Zapytania o płatność - Termin Kompensat 3.00
+G5.09.05.01.10 Rozliczenia Kurier - Zapytania o płatność - Skan Faktur 2.00	G5.09.05.01.10 Rozliczenia Kurier - Zapytania o płatność - Skan Faktur 2.00
+G5.09.05.01.11 Rozliczenia Kurier - Zapytania o płatność - Skan Noty 2.00	G5.09.05.01.11 Rozliczenia Kurier - Zapytania o płatność - Skan Noty 2.00
+G5.09.05.01.12 Rozliczenia Kurier - Zapytania o płatność - Potrącenia 2.00	G5.09.05.01.12 Rozliczenia Kurier - Zapytania o płatność - Potrącenia 2.00
+G5.09.05.01.13 Rozliczenia Kurier - Zapytania o płatność - Bieżące Saldo Przewoźnika 2.00	G5.09.05.01.13 Rozliczenia Kurier - Zapytania o płatność - Bieżące Saldo Przewoźnika 2.00
+G5.09.05.01.14 Rozliczenia Kurier - Zapytania o płatność - Zaległe Pobrania 2.00	G5.09.05.01.14 Rozliczenia Kurier - Zapytania o płatność - Zaległe Pobrania 2.00
+G5.09.05.01.15 Rozwiązanie umowy z Przewoźnikiem 2.00	G5.09.05.01.15 Rozwiązanie umowy z Przewoźnikiem 2.00
+G5.09.05.02.01 Zlecenie not_uszkodzone przesyłki_AVON 2.00	G5.09.05.02.01 Zlecenie not_uszkodzone przesyłki_AVON 2.00
+G5.09.05.02.02 Zlecenie not_błędne procesowanie przesyłki_SMART 2.00	G5.09.05.02.02 Zlecenie not_błędne procesowanie przesyłki_SMART 2.00
+G5.09.05.02.03 Zlecenie not_BKAS_rozbieżności lub braki w kasie 2.00	G5.09.05.02.03 Zlecenie not_BKAS_rozbieżności lub braki w kasie 2.00
+G5.09.05.02.04 Zlecenie not_obciążenia zaginiony sprzęt/uszkodzenie_IT 2.00	G5.09.05.02.04 Zlecenie not_obciążenia zaginiony sprzęt/uszkodzenie_IT 2.00
+G5.09.05.02.05 Zlecenie not_niedochowanie obowiązków umowy_CC 2.00	G5.09.05.02.05 Zlecenie not_niedochowanie obowiązków umowy_CC 2.00
+G5.09.05.02.06 Zlecenie not_za szkody samochodów elektrycznych _SKSE 2.00	G5.09.05.02.06 Zlecenie not_za szkody samochodów elektrycznych _SKSE 2.00
+G5.09.05.02.07 Zlecenie not_obciążenia za przewinienia oddziałowe_OW 2.00	G5.09.05.02.07 Zlecenie not_obciążenia za przewinienia oddziałowe_OW 2.00
+G5.09.05.02.08 Zlecenie not _noty od RKO_uchybienia_NOTP 2.00	G5.09.05.02.08 Zlecenie not _noty od RKO_uchybienia_NOTP 2.00
+G5.09.05.02.09 Zlecenie not _nieterminowe doręczenia/obciążenia za przesyłki zaginione/interwencje/błędny status doręczenia_NTDOR_ZAG_INTER_BDOR  2.00	G5.09.05.02.09 Zlecenie not _nieterminowe doręczenia/obciążenia za przesyłki zaginione/interwencje/błędny status doręczenia_NTDOR_ZAG_INTER_BDOR  2.00
+G5.09.05.02.10 Zlecenie noty_nieterminowa realizacja zleceń_NZLEC 2.00	G5.09.05.02.10 Zlecenie noty_nieterminowa realizacja zleceń_NZLEC 2.00
+G5.09.05.02.11 Zlecenie not _błędne procesowanie paczek_BPP 2.00	G5.09.05.02.11 Zlecenie not _błędne procesowanie paczek_BPP 2.00
+G5.09.05.02.12 Zlecenie faktur_bigbagi/dzierżawa rollkontenerów_BIGB_ROLK 3.00	G5.09.05.02.12 Zlecenie faktur_bigbagi/dzierżawa rollkontenerów_BIGB_ROLK 3.00
+G5.09.05.02.17 Zlecenie faktur_opłata za użytkowanie telefonu i karty_TEL 2.00	G5.09.05.02.17 Zlecenie faktur_opłata za użytkowanie telefonu i karty_TEL 2.00
+G5.09.05.02.18 Zlecenie faktur_dorobienie klucza do paczkomatu_KLUCZ 2.00	G5.09.05.02.18 Zlecenie faktur_dorobienie klucza do paczkomatu_KLUCZ 2.00
+G5.09.05.02.19 Zlecenie faktur_leasing wózki paletowe/widłowe_WÓPAL 2.00	G5.09.05.02.19 Zlecenie faktur_leasing wózki paletowe/widłowe_WÓPAL 2.00
+G5.09.05.02.20 Zlecenie faktur_aplikacja kurierska na tel_APSEZ 3.00	G5.09.05.02.20 Zlecenie faktur_aplikacja kurierska na tel_APSEZ 3.00
+G5.09.05.02.21 Zlecenie not i faktur - proces ratalny 2.00	G5.09.05.02.21 Zlecenie not i faktur - proces ratalny 2.00
+G5.09.05.02.22 Zlecenie faktur_leasing samochody elektryczne_DZSE 2.00	G5.09.05.02.22 Zlecenie faktur_leasing samochody elektryczne_DZSE 2.00
+G5.09.05.02.23 Zlecenie faktur_dzierżawa linii sortujących_DZLS 2.00	G5.09.05.02.23 Zlecenie faktur_dzierżawa linii sortujących_DZLS 2.00
+G5.09.05.02.24 Odwołania Przewoźników od not/faktur 2.00	G5.09.05.02.24 Odwołania Przewoźników od not/faktur 2.00
+G5.09.05.02.25 OCP - wyliczenie składki 2.00	G5.09.05.02.25 OCP - wyliczenie składki 2.00
+G5.09.05.02.26 Kalkulacja kwot faktur kurierskich (billing kuriera) 2.00	G5.09.05.02.26 Kalkulacja kwot faktur kurierskich (billing kuriera) 2.00
+G5.09.05.02.27 Obieg faktur przewoźników 2.00	G5.09.05.02.27 Obieg faktur przewoźników 2.00
+G5.09.05.02.29 Proces przygotowania kompensat dla przewoźników 2.00	G5.09.05.02.29 Proces przygotowania kompensat dla przewoźników 2.00
+G5.09.05.02.30 Proces przygotowania kompensat dla przedstawicieli 2.00	G5.09.05.02.30 Proces przygotowania kompensat dla przedstawicieli 2.00
+G5.09.05.02.31 Korekty błędów w procesie rozliczeń kurierskich 2.00	G5.09.05.02.31 Korekty błędów w procesie rozliczeń kurierskich 2.00
+"G5.09.05.02.32 Rozliczenie nieopłaconych faktur z firmą ""Kreski"" 2.00"	"G5.09.05.02.32 Rozliczenie nieopłaconych faktur z firmą ""Kreski"" 2.00"
+G5.09.05.02.33 Rozliczenia Kurier - Paczka płatności_Przewoźnicy 2.00	G5.09.05.02.33 Rozliczenia Kurier - Paczka płatności_Przewoźnicy 2.00
+G5.09.05.02.34 Rozliczenia Kurier - Proces identyfikacji przewoźnika 3.00	G5.09.05.02.34 Rozliczenia Kurier - Proces identyfikacji przewoźnika 3.00
+G5.09.05.02.35 Rozliczenia Kurier - Paczka płatności_Przedstawiciele 2.00	G5.09.05.02.35 Rozliczenia Kurier - Paczka płatności_Przedstawiciele 2.00
+G5.09.05.02.36 Nierozliczone serie not i fv 2.00	G5.09.05.02.36 Nierozliczone serie not i fv 2.00
+G5.09.06.01 Karty Euronet - Obsługa i Użytkowanie Kart Euronet 3.00	G5.09.06.01 Karty Euronet - Obsługa i Użytkowanie Kart Euronet 3.00
+G5.09.06.02 Karty Euronet - Zamówienie Kart 3.00	G5.09.06.02 Karty Euronet - Zamówienie Kart 3.00
+G5.09.06.03 Karty Euronet - Wymiana karty 3.00	G5.09.06.03 Karty Euronet - Wymiana karty 3.00
+G5.09.06.04 Karty Euronet - proces zmiany PIN'u 2.00	G5.09.06.04 Karty Euronet - proces zmiany PIN'u 2.00
+G5.09.06.07 Zgłoszenia dotyczące kart Euronet - JiraSD 3.00	G5.09.06.07 Zgłoszenia dotyczące kart Euronet - JiraSD 3.00
+G5.09.06.08 Karty Euronet - zgłoszenie JiraSD - Brak aktywacji karty 3.00	G5.09.06.08 Karty Euronet - zgłoszenie JiraSD - Brak aktywacji karty 3.00
+G5.09.06.09 Karty Euronet - zgłoszenie JiraSD - Kradzież karty 3.00	G5.09.06.09 Karty Euronet - zgłoszenie JiraSD - Kradzież karty 3.00
+G5.09.06.10 Karty Euronet - zgłoszenie JiraSD - Zagubiona 3.00	G5.09.06.10 Karty Euronet - zgłoszenie JiraSD - Zagubiona 3.00
+G5.09.06.11 Karty Euronet - zgłoszenie JiraSD - Zatrzymana przez wpłatomat 3.00	G5.09.06.11 Karty Euronet - zgłoszenie JiraSD - Zatrzymana przez wpłatomat 3.00
+G5.09.06.12 Karty Euronet - zgłoszenie JiraSD - Zniszczona 3.00	G5.09.06.12 Karty Euronet - zgłoszenie JiraSD - Zniszczona 3.00
+G5.09.07.01 Złożenie zapotrzebowania na urządzenia kurierskie w firmie Kreski - Region 2.00	G5.09.07.01 Złożenie zapotrzebowania na urządzenia kurierskie w firmie Kreski - Region 2.00
+G5.09.07.02 Realizacja zapotrzebowania na sprzęt kurierski z firmy Kreski  2.00	G5.09.07.02 Realizacja zapotrzebowania na sprzęt kurierski z firmy Kreski  2.00
+G5.09.07.03 Realizacji cesji urządzenia kurierskiego - Firma Kreski  2.00	G5.09.07.03 Realizacji cesji urządzenia kurierskiego - Firma Kreski  2.00
+G5.09.07.04 Podpisanie umowy o dzierżawę urządzenia kurierskiego w wersji papierowej 2.00	G5.09.07.04 Podpisanie umowy o dzierżawę urządzenia kurierskiego w wersji papierowej 2.00
+G5.09.07.05 Podpisanie umowy o dzierżawę urządzenia kurierskiego przez platformę Autenti 2.00	G5.09.07.05 Podpisanie umowy o dzierżawę urządzenia kurierskiego przez platformę Autenti 2.00
+G5.09.07.06 Podpisanie umowy cesji o dzierżawę urządzenia kurierskiego w wersji papierowej 2.00	G5.09.07.06 Podpisanie umowy cesji o dzierżawę urządzenia kurierskiego w wersji papierowej 2.00
+G5.09.07.07 Podpisanie umowy cesji o dzierżawę urządzenia kurierskiego przez platformę Autenti  2.00	G5.09.07.07 Podpisanie umowy cesji o dzierżawę urządzenia kurierskiego przez platformę Autenti  2.00
+G5.09.07.08 Realizacja cesji płatności z Firmy KRESKI 1.00	G5.09.07.08 Realizacja cesji płatności z Firmy KRESKI 1.00
+G5.09.09.01 Możliwe Opóźnienie Doręczenia (MOD)_ 2.00	G5.09.09.01 Możliwe Opóźnienie Doręczenia (MOD)_ 2.00
+G5.09.10.01 Przekształcenie Oddziału Przedstawicielskiego na Oddział Własny  3.00	G5.09.10.01 Przekształcenie Oddziału Przedstawicielskiego na Oddział Własny  3.00
+G5.09.10.02 Otwarcie Oddziału Własnego 1.00	G5.09.10.02 Otwarcie Oddziału Własnego 1.00
+G5.09.11.01 Rozliczenia BO APT 5.00	G5.09.11.01 Rozliczenia BO APT 5.00
+G5.09.11.02 Rozliczenia BO APT - Premie 3.00	G5.09.11.02 Rozliczenia BO APT - Premie 3.00
+G5.09.11.03 Projekt 4H APT - Osoby zatrudnione na pół etatu 2.00	G5.09.11.03 Projekt 4H APT - Osoby zatrudnione na pół etatu 2.00
+G5.09.14.01 Etykieta_Proces zarządzania etykietą 2.00	G5.09.14.01 Etykieta_Proces zarządzania etykietą 2.00
+G5.09.14.02 Etykieta Zatwierdzenie wzoru etykiety + KD 3.00	G5.09.14.02 Etykieta Zatwierdzenie wzoru etykiety + KD 3.00
+G5.09.14.03 Analiza wzoru etykiety Komitet Decyzyjny 3.00	G5.09.14.03 Analiza wzoru etykiety Komitet Decyzyjny 3.00
+G5.09.14.04 Etykieta_Weryfikacja wydrukowanych etykiet 3.00	G5.09.14.04 Etykieta_Weryfikacja wydrukowanych etykiet 3.00
+G5.09.14.05 Etykieta_Monitoring niepoprawnych etykiet 3.00	G5.09.14.05 Etykieta_Monitoring niepoprawnych etykiet 3.00
+G5.09.15.01 Zapotrzebowanie na auto elektryczne - formularz na Jira SD 2.00	G5.09.15.01 Zapotrzebowanie na auto elektryczne - formularz na Jira SD 2.00
+G5.09.15.02 Umowa rezerwacyjna 2.00	G5.09.15.02 Umowa rezerwacyjna 2.00
+G5.09.15.03 Przygotowanie i wysłanie umowy rezerwacyjnej przez Autenti 2.00	G5.09.15.03 Przygotowanie i wysłanie umowy rezerwacyjnej przez Autenti 2.00
+G5.09.15.04 Umowa rezerwacyjna - rozliczenie kaucji przewoźnika 2.00	G5.09.15.04 Umowa rezerwacyjna - rozliczenie kaucji przewoźnika 2.00
+G5.09.15.05 Wypowiedzenie umowy odpłatnego udostępnienia samochodu elektrycznego - natychmiastowe 2.00	G5.09.15.05 Wypowiedzenie umowy odpłatnego udostępnienia samochodu elektrycznego - natychmiastowe 2.00
+G5.09.15.06 Wypowiedzenie umowy odpłatnego udostępnienia samochodu elektrycznego - okres wypowiedzenia 3 miesiące 2.00	G5.09.15.06 Wypowiedzenie umowy odpłatnego udostępnienia samochodu elektrycznego - okres wypowiedzenia 3 miesiące 2.00
+G5.09.15.07 Porozumienie o rozwiązaniu umowy odpłatnego udostępnienia samochodu elektrycznego  2.00	G5.09.15.07 Porozumienie o rozwiązaniu umowy odpłatnego udostępnienia samochodu elektrycznego  2.00
+G5.09.15.08 Cofnięcie wypowiedzenia umowy odpłatnego udostępnienia samochodu elektrycznego 2.00	G5.09.15.08 Cofnięcie wypowiedzenia umowy odpłatnego udostępnienia samochodu elektrycznego 2.00
+G5.09.15.09 Dopłata energetyczna - zestawienie użytkowników EV 2.00	G5.09.15.09 Dopłata energetyczna - zestawienie użytkowników EV 2.00
+G5.09.16.01 Utworzenie incydentu 2.00	G5.09.16.01 Utworzenie incydentu 2.00
+G5.09.16.02  Incydent - Aktualizacja statusu - uzupełnienie formularza 2.00	G5.09.16.02  Incydent - Aktualizacja statusu - uzupełnienie formularza 2.00
+G5.09.16.03 Incydent - Anulowanie nadania - uzupełnienie formularza 2.00	G5.09.16.03 Incydent - Anulowanie nadania - uzupełnienie formularza 2.00
+G5.09.16.04 Incydent - Inne - uzupełnienie formularza 2.00	G5.09.16.04 Incydent - Inne - uzupełnienie formularza 2.00
+G5.09.16.05 Incydent - Utrata paczki - uzupełnienie formularza 2.00	G5.09.16.05 Incydent - Utrata paczki - uzupełnienie formularza 2.00
+G5.09.16.06 Procesowanie incydentu 2.00	G5.09.16.06 Procesowanie incydentu 2.00
+G5.09.17.02 Proces weryfikacji zwrotu paczki z Allegro HUB do Polski 1.00	G5.09.17.02 Proces weryfikacji zwrotu paczki z Allegro HUB do Polski 1.00
+G5.09.17.03 Allegro X-border - monitoring przesyłek 3.00	G5.09.17.03 Allegro X-border - monitoring przesyłek 3.00
+G5.09.18.01 GoCouriers Zatrudnianie Przewoźnika 4.00	G5.09.18.01 GoCouriers Zatrudnianie Przewoźnika 4.00
+G5.09.18.02 GoCouriers Rozszerzenie Tabeli Kodów Przewoźnika 3.00	G5.09.18.02 GoCouriers Rozszerzenie Tabeli Kodów Przewoźnika 3.00
+G5.09.18.03 GoCouriers Generowanie Identyfikatora Przewoźnika  2.00	G5.09.18.03 GoCouriers Generowanie Identyfikatora Przewoźnika  2.00
+G5.09.18.04 GoCouriers Wypowiedzenie Umowy Przewoźnika  2.00	G5.09.18.04 GoCouriers Wypowiedzenie Umowy Przewoźnika  2.00
+G5.09.18.05 GoCouriers Anulowanie Procesu Wypowiedzenia Umowy Przewoźnika  3.00	G5.09.18.05 GoCouriers Anulowanie Procesu Wypowiedzenia Umowy Przewoźnika  3.00
+G5.09.18.07 GoCouriers Zatrudnianie Kuriera 6.00	G5.09.18.07 GoCouriers Zatrudnianie Kuriera 6.00
+G5.09.18.08 GoCouriers Przepięcia Kuriera - Inny Oddział Własny 3.00	G5.09.18.08 GoCouriers Przepięcia Kuriera - Inny Oddział Własny 3.00
+G5.09.18.09 GoCouriers Przepięcia Kuriera - Ten Sam Oddział Własny Różni Przewoźnicy 3.00	G5.09.18.09 GoCouriers Przepięcia Kuriera - Ten Sam Oddział Własny Różni Przewoźnicy 3.00
+G5.09.18.10 GoCouriers Przepięcia Kuriera - Oddział Własny na Oddział Przedstawicielski 2.00	G5.09.18.10 GoCouriers Przepięcia Kuriera - Oddział Własny na Oddział Przedstawicielski 2.00
+G5.09.18.11 GoCouriers Generowanie Identyfikatora Kuriera 2.00	G5.09.18.11 GoCouriers Generowanie Identyfikatora Kuriera 2.00
+G5.09.18.12 GoCouriers Rozwiązanie Współpracy z Kurierem 2.00	G5.09.18.12 GoCouriers Rozwiązanie Współpracy z Kurierem 2.00
+G5.09.18.13 GoCouriers Weryfikacja Kuriera  3.00	G5.09.18.13 GoCouriers Weryfikacja Kuriera  3.00
+G5.09.18.15 GoCouriers Weryfikacja Samochodu 3.00	G5.09.18.15 GoCouriers Weryfikacja Samochodu 3.00
+G5.09.18.16 GoCouriers Masowe aneksowanie przewoźników 2.00	G5.09.18.16 GoCouriers Masowe aneksowanie przewoźników 2.00
+G5.09.18.17 GoCouriers Masowe rozszerzenie działalności przewoźników o nowy oddział 2.00	G5.09.18.17 GoCouriers Masowe rozszerzenie działalności przewoźników o nowy oddział 2.00
+G5.09.18.18 GoCouriers Masowe generowanie identyfikatorów kurierów 2.00	G5.09.18.18 GoCouriers Masowe generowanie identyfikatorów kurierów 2.00
+G5.09.18.19 GoCouriers Przepięcie oddziału macierzystego 2.00	G5.09.18.19 GoCouriers Przepięcie oddziału macierzystego 2.00
+G5.09.18.20 GoCouriers Edycja danych przewoźnika w systemie 2.00	G5.09.18.20 GoCouriers Edycja danych przewoźnika w systemie 2.00
+G5.09.18.21 GoCouriers Zmiana numeru konta bankowego przewoźnika 2.00	G5.09.18.21 GoCouriers Zmiana numeru konta bankowego przewoźnika 2.00
+G5.09.18.24 GoCouriers Przygotowanie szablonów dokumentów 1.00	G5.09.18.24 GoCouriers Przygotowanie szablonów dokumentów 1.00
+G5.09.18.25 GoCouriers Planowana nieobecność Kuriera 1.00	G5.09.18.25 GoCouriers Planowana nieobecność Kuriera 1.00
+G5.09.18.26 GoCouriers Zarządzanie flotą 4.00	G5.09.18.26 GoCouriers Zarządzanie flotą 4.00
+G5.09.19.01 Obsługa niestandardowych zapytań z PH na JIRA 1.00	G5.09.19.01 Obsługa niestandardowych zapytań z PH na JIRA 1.00
+G5.10.01 Smart Courier 5.00	G5.10.01 Smart Courier 5.00
+G5.10.02 Smart Courier (e-Smart) Oddział Doręczający 4.00	G5.10.02 Smart Courier (e-Smart) Oddział Doręczający 4.00
+G5.10.03 Smart Courier (papier) Kurier Doręczenie 4.00	G5.10.03 Smart Courier (papier) Kurier Doręczenie 4.00
+G5.10.04 Smart Courier (papier) Oddział Nadawczy 5.00	G5.10.04 Smart Courier (papier) Oddział Nadawczy 5.00
+G5.10.05 Smart Courier (papier) Sortownia 5.00	G5.10.05 Smart Courier (papier) Sortownia 5.00
+G5.10.06 Smart Courier (papier) Oddział doręczający 5.00	G5.10.06 Smart Courier (papier) Oddział doręczający 5.00
+G5.10.07 Smart Courier (papier) Zwiezienie przesyłki na oddział doręczający 4.00	G5.10.07 Smart Courier (papier) Zwiezienie przesyłki na oddział doręczający 4.00
+G5.10.08 Smart Courier (papier) odesłanie przesyłek Oddział - Sortownia - Oddział 4.00	G5.10.08 Smart Courier (papier) odesłanie przesyłek Oddział - Sortownia - Oddział 4.00
+G5.10.09 Smart Courier (e-SmartMIX) Oddział Doręczający 3.00	G5.10.09 Smart Courier (e-SmartMIX) Oddział Doręczający 3.00
+G5.10.10 Smart Courier (e-Smart i e-SmartMIX) Kurier Doręczenie 3.00	G5.10.10 Smart Courier (e-Smart i e-SmartMIX) Kurier Doręczenie 3.00
+G5.10.11 Smart Courier (e-SmartMIX) zwiezienie/odesłanie przesyłek 3.00	G5.10.11 Smart Courier (e-SmartMIX) zwiezienie/odesłanie przesyłek 3.00
+G5.13.01 Onboarding APT 3.00	G5.13.01 Onboarding APT 3.00
+G5.13.02 Wytyczne do wdrożenia nowego Kuriera InPost  5.00	G5.13.02 Wytyczne do wdrożenia nowego Kuriera InPost  5.00
+G5.13.03 Wizerunek i wyposażenie Kuriera 6.00	G5.13.03 Wizerunek i wyposażenie Kuriera 6.00
+G5.13.04 Zasady postępowania Kuriera podczas pracy na rejonie 2.00	G5.13.04 Zasady postępowania Kuriera podczas pracy na rejonie 2.00
