@@ -6,8 +6,8 @@
         1000,
         50
       ],
-      "tensorPath": "https://raw.githubusercontent.com/.../tensors.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/.../optional.metadata.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/nicehotdog/tensr/refs/heads/main/embeddings.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/nicehotdog/tensr/refs/heads/main/metadata.tsv"
     }
   ]
 }
